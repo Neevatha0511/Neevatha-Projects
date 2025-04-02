@@ -5,4 +5,4 @@
 
 1.3 PowerBI Dashboard with Online Sales Overview for 2010 
 
-1.4 SQL queries to the Chinook Database
+1.4 SQL queries for the Chinook Database
